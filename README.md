@@ -4,7 +4,7 @@ Programming: Python, R, C, Linux, Matlab
 Interested in Genomics, Vaccine designing Drug Discovery, and Big Data in Bioinformatics  
 Open to collaborations on Bioinformatics & AI projects  
 Reach me at: [rsshravya2@gmail.com](mailto:rsshravya2@gmail.com)  
-Check out my latest project:](https://github.com/ShravyaRS/)
+Check out my latest project:(https://github.com/ShravyaRS/)
 
 
 
