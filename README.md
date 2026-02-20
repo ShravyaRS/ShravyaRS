@@ -1,46 +1,17 @@
-<div align="center">
+## About
 
-# Shravya R S
+M.Sc. Bioinformatics researcher focused on structural validation and cryo-EM methods. Currently contributing to the [IHMValidation](https://github.com/salilab/IHMValidation) project at [Sali Lab](https://salilab.org/), UCSF, where I am replacing legacy Chimera dependencies with pure Python implementations for the wwPDB-IHM validation pipeline.
 
-**Structural Bioinformatics · Computational Biology · Cryo-EM Validation**
+### Featured Work
 
-M.Sc. Bioinformatics
+[**qscore-validation**](https://github.com/ShravyaRS/qscore-validation) -- Benchmarked pure Python Q-score against MapQ/Chimera across 28 EMDB entries (r = 0.997) and 4,085 residues (r = 0.987). Tested on PDB-IHM integrative structures.
 
-[![Email](https://img.shields.io/badge/Email-rsshravya2%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rsshravya2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ShravyaRS-181717?style=flat-square&logo=github)](https://github.com/ShravyaRS)
+[**IHMValidation**](https://github.com/ShravyaRS/IHMValidation/tree/qscore-pure-python) -- Pure Python Q-score integration for the IHMValidation pipeline, eliminating the UCSF Chimera dependency.
 
-</div>
+[**cisplatin-rbm-lung-cancer**](https://github.com/ShravyaRS/cisplatin-rbm-lung-cancer) -- Interpretable rule-based ML model for predicting cisplatin response in non-small cell lung cancer.
 
----
-
-### About
-
-I work at the intersection of structural biology and computation, developing tools for validating biomolecular structures, analyzing cryo-EM data, and applying machine learning to biological problems. Currently contributing to the [IHMValidation](https://github.com/salilab/IHMValidation) project at [Sali Lab](https://salilab.org/), UCSF.
-
-### Featured Projects
-
-| Repository | Description |
-|:-----------|:------------|
-| [**qscore-validation**](https://github.com/ShravyaRS/qscore-validation) | Q-score benchmarking: pure Python vs MapQ/Chimera across 28 structures |
-| [**IHMValidation**](https://github.com/ShravyaRS/IHMValidation) | Fork with pure Python Q-score integration (removing Chimera dependency) |
-| [**IHMValidation-Analysis**](https://github.com/ShravyaRS/IHMValidation-Analysis) | Technical deep-dive into the IHMValidation codebase and architecture |
-| [**cisplatin-rbm-lung-cancer**](https://github.com/ShravyaRS/cisplatin-rbm-lung-cancer) | Interpretable ML model for predicting cisplatin response in lung cancer |
-| [**enzyme-mutation-fingerprint**](https://github.com/ShravyaRS/enzyme-mutation-fingerprint) | Mutation resilience analysis across enzyme families |
-| [**mmCIF_Parser_Project**](https://github.com/ShravyaRS/mmCIF_Parser_Project) | Educational mmCIF parser for protein structure analysis |
+[**IHMValidation-Analysis**](https://github.com/ShravyaRS/IHMValidation-Analysis) -- Technical analysis of the IHMValidation codebase, validation workflows, and architecture.
 
 ### Skills
-```text
-Languages       Python, R, C, Bash/Linux, MATLAB
-Structural Bio  Cryo-EM, mmCIF/PDB, Q-score, Map validation, PyMOL, Chimera
-ML / Data       scikit-learn, NumPy, SciPy, pandas, matplotlib
-Bioinformatics  BioPython, sequence analysis, structural alignment, drug discovery
-Tools           Git, GitHub Actions, Docker/Singularity, HPC
-```
 
----
-
-<div align="center">
-
-*Open to collaborations in structural bioinformatics, cryo-EM methods, and computational biology.*
-
-</div>
+Python, R, C, Bash/Linux | BioPython, NumPy, SciPy, scikit-learn | Cryo-EM, mmCIF/PDB, Q-score, PyMOL, ChimeraX | RNA-seq, NGS, neoepitope prediction | Git, Docker/Singularity, HPC
