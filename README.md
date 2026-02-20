@@ -17,12 +17,6 @@ M.Sc. Bioinformatics
 
 I work at the intersection of structural biology and computation, developing tools for validating biomolecular structures, analyzing cryo-EM data, and applying machine learning to biological problems. Currently contributing to the [IHMValidation](https://github.com/salilab/IHMValidation) project at [Sali Lab](https://salilab.org/), UCSF.
 
-### Current Work
-
-**Cryo-EM Validation** -- Replacing legacy Chimera-dependent Q-score computation with a pure Python implementation for the IHMValidation pipeline. Validated across 28 EMDB entries with per-residue correlation r = 0.987.
-
-**Integrative Structure Validation** -- Analyzing and improving validation workflows for integrative models deposited in [PDB-Dev](https://pdb-dev.wwpdb.org/).
-
 ### Featured Projects
 
 | Repository | Description |
