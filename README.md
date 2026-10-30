@@ -21,7 +21,7 @@ Doctoral researcher in Biochemistry, Molecular Biology and Biomedicine at the Un
 
 My work sits where immunology meets large-scale sequence analysis: predicting and characterising T and B cell epitopes, comparing proteomes at scale, and building reproducible pipelines that turn raw sequence data into interpretable immunological results. I also have a background in structural bioinformatics and integrative structure model validation.
 
-Previously: M.Sc. Bioinformatics (JSS AHER, Mysuru), with research work for ELIXIR 3D-Bioinfo / Czech Academy of Sciences and a first-author manuscript on neoepitope prediction.
+Previously: M.Sc. Bioinformatics, JSS Academy of Higher Education & Research, Mysuru.
 
 ## Skills
 
